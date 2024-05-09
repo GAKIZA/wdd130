@@ -12,7 +12,7 @@ body {
     --heading-font:'Roboto', sans-serif;
     --paragraph-font: 'Gill Sans', sans-serif;
     --nav-background-color: var(--primary-color);
-    --nav-link-color:var(var(--accent2-color));
+    --nav-link-color:var(--accent2-color);
     --nav-hover-link-color:var(--accent1-color);
     --nav-hover-background-color:var(--primary-color);
      
